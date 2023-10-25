@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+#logo {
+    height: 3.0em;
+    display: flex;
+    justify-content: center;
+}
+
+#gialla {
+    color: #f5f116;
+    box-shadow: 0em 1em 1em 1em #fcfbe6;
+}
+#simply {
+    display: flex;
+    justify-content: center;
+}
+#testo-img {
+    align-items: center;
+}
+.featured {
+    color: orange;
+}
+.link {
+    color: rgb(22, 143, 165);
+}
+section {
+    font-family: 'Roboto',
+}
+.seconda {
+    color: lightblue;
+}
+.link2 {
+    color: rgb(22, 143, 165);
+}
